@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marcelomanfredo
 - 👀 I’m interested in music, games and development!
-- 🌱 I’m currently learning C# and Javascript
+- 🌱 I’m currently learning Rust and Lua!
 - 💞️ I’m looking to collaborate on any projects that can accept me.
 - 📫 You can reach me through my email: marcelomanfredo@gmail.com. I'm not a senior dev, but I can assure I learn really fast!
 
